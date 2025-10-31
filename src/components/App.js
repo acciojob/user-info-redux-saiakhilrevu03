@@ -1,5 +1,5 @@
 import React from 'react';
-import UserInfoForm from './components/UserInfoForm';
+import UserInfoForm from './UserInfoForm';
 
 function App() {
   return (
